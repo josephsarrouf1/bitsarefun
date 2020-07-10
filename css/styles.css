@@ -12,6 +12,12 @@ h1 {
   font-family: 'Sacramento', cursive;
 }
 
+.profile-pic {
+    width:150px;
+    height: 150px;
+    border-radius: 100px;
+}
+
 h2 {
   color: #66BFBF;
   font-family: 'Montserrat', sans-serif;
@@ -104,12 +110,15 @@ a:hover {
   width: 25%;
   float: left;
   margin-right: 30px;
+    border-radius: 100px;
 }
 
-.chilli-img {
-  width: 25%;
+.piano-img {
+height: 200px;
+    width:200px;
   float: right;
   margin-left: 30px;
+    border-radius: 100px;
 }
 
 .btn {
@@ -139,8 +148,3 @@ a:hover {
   text-decoration: none;
 }
 
-.profile-pic {
-    width:150px;
-    height: 150px;
-    border-radius: 100px;
-}
